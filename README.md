@@ -14,11 +14,9 @@
 #### The program does not need any special requirements, and runs as a normal windows application.
 
 
-     Author:
-           - instagram - @harshit_kumarofficial
-	       - github - @harshitkumar9030
-	       - twitter - @OhHarshit	
-	       - replit - @OhHarshit
+     Author: Shrey Yadav
+           - instagram - @__sitto___
+	    
          
          
-##### Library Management system based on c++ BY HARSHIT KUMAR
+##### Library Management system based on c++ BY Shrey Yadav
